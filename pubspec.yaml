@@ -1,4 +1,4 @@
-name: appwrouter-dart
+name: appwrite-router
 description: A router for appwrite cloud functions
 version: 0.2.7
 license: MIT
