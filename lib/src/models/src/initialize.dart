@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:appwrouter/src/models/models.dart';
+import 'package:appwrite_router/src/models/models.dart';
 import 'package:dart_appwrite/dart_appwrite.dart';
 
 /// {@template on_middleware}

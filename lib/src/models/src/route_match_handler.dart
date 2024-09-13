@@ -1,4 +1,4 @@
-import 'package:appwrouter/appwrouter.dart';
+import 'package:appwrouter/appwrite_router.dart';
 
 /// {@template route_match_handler}
 /// A class for handling property for matching route.

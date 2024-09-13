@@ -3,7 +3,7 @@
 import 'dart:convert';
 import 'dart:developer';
 
-import 'package:appwrouter/appwrouter.dart';
+import 'package:appwrouter/appwrite_router.dart';
 
 /// {@template appwrouter}
 /// A router for appwrite cloud functions

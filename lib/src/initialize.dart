@@ -1,6 +1,7 @@
 // ignore_for_file: avoid_dynamic_calls, unnecessary_parenthesis
 
-import 'package:appwrouter/appwrouter.dart';
+
+import 'package:appwrouter/appwrite_router.dart';
 
 /// A method for initialization of the Appwrouter
 Future<dynamic> initialize(Initialize initialize) async {

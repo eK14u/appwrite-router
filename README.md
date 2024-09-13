@@ -57,7 +57,7 @@ dart pub add appwrouter
 1. First, create a new instance of Appwrouter. Then register your routes using the `get`, `post`, `put`, `patch` and `delete` methods.
 
 ```dart
-import 'package:appwrouter/appwrouter.dart';
+import 'package:appwrouter/appwrite_router.dart';
 
 final router = Appwrouter.instance
   ..get(

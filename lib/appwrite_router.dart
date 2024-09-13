@@ -1,7 +1,7 @@
 /// A router for appwrite cloud functions
 library;
 
-import 'package:appwrouter/src/models/src/handle_request.dart';
+import 'package:appwrouter/appwrite_router.dart';
 
 export 'src/appwrouter.dart';
 export 'src/initialize.dart';

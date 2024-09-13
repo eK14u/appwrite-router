@@ -1,4 +1,4 @@
-import 'package:appwrouter/appwrouter.dart';
+import 'package:appwrouter/appwrite_router.dart';
 
 /// {@template versioned_routes}
 /// A class that store all routes version.
